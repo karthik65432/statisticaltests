@@ -1,0 +1,2 @@
+# statisticaltests
+This function is intended to automate process of statistical tests which are generally performed on the data. Statistical tests includes two sample T-test, Chi-Squared test and ANOVA. This function takes 3 inputs1. data - Takes datatype of dataframe from csv file2. dataname - This is the name of the dataset, this helps to save the file with proper name in excel. 3. summary - default = F, If summary = T, It prints the summary of tests in console
